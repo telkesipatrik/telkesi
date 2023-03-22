@@ -5,4 +5,4 @@ Hello World, my name is Patrik Telkesi I'm 26 years old. I live in Csobánka, it
 -airsoft
 -thaibox 
 -build 
--modell car
+-building modell car
